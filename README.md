@@ -135,7 +135,7 @@ lcd_last_page.txt
 ## ▶️ التشغيل
 
 ```bash
-python3 main.py
+python3 moniring_system_lcd.py
 ```
 
 (غيّر الاسم حسب اسم الملف لديك)
